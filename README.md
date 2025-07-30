@@ -62,8 +62,6 @@ Each file includes:
 
 ## 📘 Progress Tracker
 
-## 📘 Progress Tracker
-
 ### 📂 01_MathLogic
 - [ ] 01 - Find Prime Numbers in Array
 - [ ] 02 - Check Palindrome
