@@ -62,17 +62,21 @@ Each file includes:
 
 ## 📘 Progress Tracker
 
-- [ ] 01 - Print Even/Odd Numbers  
-- [ ] 02 - Calculator using if-else  
-- [ ] 03 - Sum of first N natural numbers  
-- [ ] 04 - Factorial of a number  
-- [ ] 05 - Reverse a number  
-- [ ] 06 - Check if Prime  
-- [ ] 07 - Palindrome Check  
-- [ ] 08 - Fibonacci Series  
-- [ ] 09 - Print Number Pattern  
-- [ ] 10 - Find Largest in Array  
-- ... *(up to 100)*
+## 📘 Progress Tracker
+
+### 📂 01_MathLogic
+- [ ] 01 - Find Prime Numbers in Array
+- [ ] 02 - Check Palindrome
+...
+
+### 📂 02_StringsCharacters
+- [ ] 21 - Reverse String
+- [ ] 22 - Count Vowels
+...
+
+... and so on until:
+📂 06_ObjectMapSet
+
 
 ---
 
