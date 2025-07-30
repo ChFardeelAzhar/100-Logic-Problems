@@ -1,5 +1,9 @@
 # 🧠 100 Logic Building Problems in Kotlin
 
+![GitHub stars](https://img.shields.io/github/stars/ChFardeelAzhar/100-Logic-Problems)
+![GitHub issues](https://img.shields.io/github/issues/ChFardeelAzhar/100-Logic-Problems)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/ChFardeelAzhar/100-Logic-Problems)
+
 Welcome to my **Logic Building Journey**! 👨‍💻  
 As an Android Developer, I realized that writing UI is important — but **thinking logically is the real power** behind solving real-world problems in code.
 
@@ -23,19 +27,15 @@ This repository is dedicated to solving **100 logic problems**, step-by-step, to
 
 ## 🛠 Structure
 
-Each folder contains problems based on topic or logic category:
+Each folder contains logic problems grouped by topic to help build problem-solving skills progressively.
 
 ```
-/01_Basics/
-    problem_01_PrintEvenOdd.kt
-    problem_02_SimpleCalculator.kt
-
-/02_Loops/
-    problem_03_SumOfFirstN.kt
-    problem_04_Factorial.kt
-
-...
-/10_MixChallenges/
+/01_MathLogic/
+/02_StringsCharacters/
+/03_ArraysLists/
+/04_LoopsConditions/
+/05_LogicAlgorithms/
+/06_ObjectMapSet/
 ```
 
 
@@ -50,16 +50,13 @@ Each file includes:
 
 | Folder Name | Topics Covered |
 |-------------|----------------|
-| `01_Basics` | Input/Output, Variables, Conditions |
-| `02_Loops` | For, While, Do-While |
-| `03_Math` | Prime, Factorial, Fibonacci, GCD, LCM |
-| `04_Strings` | Palindrome, Reversal, Vowel Count |
-| `05_Arrays` | Max, Min, Sorting, Sum |
-| `06_Functions` | Reusable Logic |
-| `07_Recursion` | Recursive Solutions |
-| `08_Patterns` | Pattern Printing |
-| `09_Sorting_Searching` | Bubble Sort, Linear/Binary Search |
-| `10_MixChallenges` | Combined & Advanced Questions |
+| `01_MathLogic`         | Prime numbers, palindromes, factorials, binary conversions, GCD/LCM |
+| `02_StringsCharacters` | String reversal, anagrams, character frequency, string manipulation |
+| `03_ArraysLists`       | Sorting, searching, duplicates, subarrays, max/min elements |
+| `04_LoopsConditions`   | Pattern printing, digit sums, range problems, condition-based logic |
+| `05_LogicAlgorithms`   | Sorting algorithms, calculators, validations, recursion, logic puzzles |
+| `06_ObjectMapSet`      | Working with objects, maps, sets, grouping, filtering |
+
 
 ---
 
